@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ElixirGameApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/azulado</item>
+    </style>
+
+    <style name="Theme.ElixirGameApp" parent="Base.Theme.ElixirGameApp" />
+</resources>
